@@ -1,4 +1,5 @@
-//your JS code here. If required.enter = ()=>{
+//your JS code here. If required.
+enter = ()=>{
 let e=document.getElementById("d1");
 let el=document.getElementById("status");
 el.remove();
